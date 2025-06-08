@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
-
+	
+//Código do DESAFIO INICIANTE com as adições do DESAFIO AVENTUREIRO
 
 // Definição das variáveis da Carta 1 ===========================================
 
